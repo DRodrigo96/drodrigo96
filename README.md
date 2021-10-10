@@ -10,7 +10,10 @@ Hello world!
     <img align="center" alt="spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
     <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="databricks" height="30" width="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg">
     <img align="center" alt="googlecloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+    <img align="center" alt="aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   </div>
 </div>
 
